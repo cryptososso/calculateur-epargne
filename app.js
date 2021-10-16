@@ -41,7 +41,7 @@ function calculateResults(e){
          document.getElementById('loading').style.display = 'none';
 
     }else{
-        showError('Please check your numbers');
+        showError('Veuillez bien remplir les champs');
     }
 
 }
